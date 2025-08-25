@@ -34,14 +34,18 @@ This Python script allows users to input hostnames and resolves them to IP addre
 
 ## Example Interaction
 Enter a hostname or press enter to finish: google.com
+
 Enter a hostname or press enter to finish: github.com
+
 Enter a hostname or press enter to finish:
 
 0: google.com
+
 1: github.com
 
 Enter the index of the hostname you want to look up (or press enter to quit): 0
-google.com - 142.250.190.78
+
+google.com - 142.250.70.206
 
 
 ---
