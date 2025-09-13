@@ -15,7 +15,7 @@ This project demonstrates my ability to **deploy, configure, and manage** a Wind
 - **Domain:** `mydomain.com`  
 - **Client:** Windows 10 Enterprise VM  
 - **Services:** AD DS, DNS, DHCP, NAT/RAS  
-- **Automation:** PowerShell script to create **1,000+ users**  
+- **Automation:** PowerShell script to create countless users**  
 
 ---
 
@@ -28,3 +28,44 @@ This project demonstrates my ability to **deploy, configure, and manage** a Wind
 ✔️ Virtualization with Oracle VirtualBox  
 ✔️ Troubleshooting network & domain issues  
 
+## 🖼️ Screenshot Documentation
+
+1. **Network Architecture Diagram**  
+![Network Architecture](./screenshots/01-network-architecture.png)  
+**Description:** Shows the complete VMware network design with NIC configurations, IP addressing scheme (`172.16.0.0/24`), and service allocations. Demonstrates understanding of network segmentation with internal and external adapters, DHCP scope planning (`172.16.0.100-200`), and DNS configuration pointing to the domain controller.
+
+2. **Windows Server 2019 Installation**  
+![Windows Server Installation](./screenshots/02-server-installation.png)  
+**Description:** Captures the Windows Server 2019 installation process within Oracle VirtualBox. Shows successful OS deployment that will serve as the foundation for the domain controller and essential network services.
+
+3. **System Configuration**  
+![System Configuration](./screenshots/03-system-configuration.png)  
+**Description:** Displays the Server 2019 system properties confirming the evaluation version installation, hardware allocation (2GB RAM), and basic system identification. Important for documenting the lab environment specifications.
+
+4. **IPv4 Network Configuration**  
+![IPv4 Network Configuration](./screenshots/04-ipv4-configuration.png)  
+**Description:** Shows the TCP/IPv4 configuration for the internal network interface. Documents the static IP assignment (`172.16.0.1`), subnet mask (`255.255.255.0`), and DNS settings that establish the domain controller's network identity.
+
+5. **Active Directory Management Console**  
+![Active Directory Management](./screenshots/05-ad-management.png)  
+**Description:** The Active Directory Users and Computers (ADUC) console showing the domain structure, organizational units, and user accounts. Demonstrates practical AD management including OU design and user object management.
+
+6. **RAS/NAT Configuration**  
+![RAS/NAT Configuration](./screenshots/06-ras-nat-configuration.png)  
+**Description:** Routing and Remote Access configuration showing NAT setup that enables internet connectivity for the internal network while maintaining security. Critical for enterprise network design understanding.
+
+7. **DHCP Management Console**  
+![DHCP Management](./screenshots/07-dhcp-management.png)  
+**Description:** DHCP server management showing scope configuration, IP address range (`172.16.0.100-200`), and options including gateway and DNS server settings. Demonstrates dynamic IP allocation setup for client machines.
+
+8. **PowerShell Automation Script**  
+![PowerShell Automation](./screenshots/08-powershell-automation.png)  
+**Description:** Showcases the custom PowerShell script that automates bulk user creation (1,000+ users) from a text file. Highlights scripting skills and automation capabilities for enterprise user management.
+
+9. **Client Domain Join**  
+![Client Domain Join](./screenshots/09-client-domain-join.png)  
+**Description:** Windows 10 client successfully joined to the domain, showing computer object in AD and network connectivity. Demonstrates endpoint integration with domain services.
+
+10. **Network Connectivity Testing**  
+![Network Connectivity Testing](./screenshots/10-network-testing.png)  
+**Description:** Command prompt showing successful ping tests to both external resources (`google.com`) and internal domain resources (`mydomain.com`). Validates DNS resolution, network connectivity, and domain functionality.
