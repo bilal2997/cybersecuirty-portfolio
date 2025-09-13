@@ -1,39 +1,32 @@
-👋 About Me
+# 👋 Hi, I’m Bilal Khan  
 
-This GitHub is my living portfolio. I’m constantly working on new projects, so expect this page to change and grow over time as I learn more and push myself further. 🚀
+🚀 Aspiring IT professional & Cybersecurity student passionate about **networking, system administration, and security**.  
+This GitHub is my **living portfolio** — I’m always building projects, so expect this page to **change and grow over time**.  
 
-🎓 Currently studying Cybersecurity
+---
 
-📚 Working on certifications like CompTIA Security+, Network+, and Azure Fundamentals (AZ-900)
+## 🛠️ Tech Stack  
+- **Languages:** Python • PowerShell • Bash  
+- **Systems:** Windows Server • Linux (Ubuntu, Kali) • VMware/VirtualBox  
+- **Networking:** DNS • DHCP • VPNs • Firewalls • Wireshark  
+- **Cloud:** AWS • Azure  
+- **Security:** Splunk • SIEM basics • Log Analysis  
 
-💻 Building hands-on projects in Active Directory, networking, scripting, and cloud security
+---
 
-🌱 Always learning and improving through labs, tutorials, and real-world projects
+## 📂 Current & Ongoing Projects  
+📌 This section will keep updating as I add more projects:  
+- 🖥️ **Active Directory Home Lab** – Windows Server setup with users, groups & permissions  
+- 🌐 **Networking Projects** – DNS, DHCP, IP addressing labs  
+- 🔐 **Security Projects** – SIEM & log analysis with Splunk  
+- ⚡ *More coming soon...*  
 
-🎯 Goal: Start my career in Helpdesk / IT Support and grow into Cybersecurity
+---
 
-🔧 Tech & Tools
+## 📫 Connect with Me  
+- 📧 Email: **bilal2997@outlook.com**  
 
-Languages: Python, PowerShell, Bash
+---
 
-Systems: Windows Server, Linux (Ubuntu, Kali), VMware/VirtualBox
+✨ *This page is always under construction — check back often to see what I’ve been building!*  
 
-Networking: DNS, DHCP, VPNs, Firewalls, Wireshark
-
-Cloud: Azure
-
-Security: Splunk, SIEM basics, log analysis
-
-📂 Featured Projects
-
-🖥️ Active Directory Home Lab – Windows Server setup with users, groups, and permissions
-
-🌐 Networking Projects – DNS, DHCP, IP addressing labs
-
-🔐 Security Projects – SIEM & log analysis with Splunk
-
-📫 Connect with Me
-
-📧 Email: bilal2997@outlook.com
-
-👉 Thanks for checking out my projects! Feel free to fork, star, or reach out if you’d like to collaborate.
