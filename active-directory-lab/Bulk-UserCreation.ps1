@@ -49,6 +49,4 @@ foreach ($n in $USER_FIRST_LAST_LIST) {
                -Enabled $true                            # Enable the account immediately
 }
 
-# Script completion
-Write-Host "User creation process completed!" -ForegroundColor Green
-Write-Host "All users have been created in the _USERS Organizational Unit" -ForegroundColor Yellow
+
