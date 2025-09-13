@@ -31,7 +31,7 @@ This project demonstrates my ability to **deploy, configure, and manage** a Wind
 ## 🖼️ Screenshot Documentation
 
 1. **Network Architecture Diagram**  
-![Network Architecture](](https://github.com/bilal2997/cybersecuirty-portfolio/blob/61250ebf24780965ad8c04c8c09c895836d6187e/active-directory-lab/lab%201%20screenshot%201%20.png)  
+![Network Architecture](](https://github.com/bilal2997/cybersecuirty-portfolio/blob/61250ebf24780965ad8c04c8c09c895836d6187e/active-directory-lab/lab%201%20screenshot%201%20.png?raw=true)  
 **Description:** Shows the complete VMware network design with NIC configurations, IP addressing scheme (`172.16.0.0/24`), and service allocations. Demonstrates understanding of network segmentation with internal and external adapters, DHCP scope planning (`172.16.0.100-200`), and DNS configuration pointing to the domain controller.
 
 2. **Windows Server 2019 Installation**  
