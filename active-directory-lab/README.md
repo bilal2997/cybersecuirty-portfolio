@@ -35,7 +35,7 @@ This project demonstrates my ability to **deploy, configure, and manage** a Wind
 **Description:** Shows the complete VMware network design with NIC configurations, IP addressing scheme (`172.16.0.0/24`), and service allocations. Demonstrates understanding of network segmentation with internal and external adapters, DHCP scope planning (`172.16.0.100-200`), and DNS configuration pointing to the domain controller.
 
 2. **Windows Server 2019 Installation**  
-![Windows Server Installation](./screenshots/02-server-installation.png)  
+![Windows Server Installation](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/%E5%96%87%E5%8F%AD1%20screens%E5%90%8E%E5%8F%B02%20.png?raw=true)  
 **Description:** Captures the Windows Server 2019 installation process within Oracle VirtualBox. Shows successful OS deployment that will serve as the foundation for the domain controller and essential network services.
 
 3. **System Configuration**  
