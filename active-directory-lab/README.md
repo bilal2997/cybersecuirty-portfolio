@@ -39,7 +39,7 @@ This project demonstrates my ability to **deploy, configure, and manage** a Wind
 **Description:** Captures the Windows Server 2019 installation process within Oracle VirtualBox. Shows successful OS deployment that will serve as the foundation for the domain controller and essential network services.
 
 3. **System Configuration**  
-![System Configuration](./screenshots/03-system-configuration.png)  
+![System Configuration](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/lab%201%20screenshot%203.png?raw=true)  
 **Description:** Displays the Server 2019 system properties confirming the evaluation version installation, hardware allocation (2GB RAM), and basic system identification. Important for documenting the lab environment specifications.
 
 4. **IPv4 Network Configuration**  
