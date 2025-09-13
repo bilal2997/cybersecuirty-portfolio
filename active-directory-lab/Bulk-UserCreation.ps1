@@ -7,15 +7,13 @@ This PowerShell script automates the creation of multiple user accounts in Activ
 from a text file containing first and last names. It creates standardized usernames and
 places all users in a dedicated Organizational Unit.
 
-.AUTHOR
-Your Name
 
 .REQUIREMENTS
 - Active Directory PowerShell Module
 - Appropriate permissions to create users and OUs
 #>
 
-# ----- Edit these Variables for your own Use Case ----- #
+# ---------- #
 $PASSWORD_FOR_USERS   = "Password1"    # Default password for all new users
 $USER_FIRST_LAST_LIST = Get-Content .\names.txt  # Text file with "First Last" names
 # ------------------------------------------------------ #
