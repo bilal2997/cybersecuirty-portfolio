@@ -47,25 +47,30 @@ This project demonstrates my ability to **deploy, configure, and manage** a Wind
 **Description:** Shows the TCP/IPv4 configuration for the internal network interface. Documents the static IP assignment (`172.16.0.1`), subnet mask (`255.255.255.0`), and DNS settings that establish the domain controller's network identity.
 
 5. **Active Directory Management Console**  
-![Active Directory Management](./screenshots/05-ad-management.png)  
+![Active Directory Management](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/lab%201%20screenshot%205.png?raw=true
+)  
 **Description:** The Active Directory Users and Computers (ADUC) console showing the domain structure, organizational units, and user accounts. Demonstrates practical AD management including OU design and user object management.
 
 6. **RAS/NAT Configuration**  
-![RAS/NAT Configuration](./screenshots/06-ras-nat-configuration.png)  
+![RAS/NAT Configuration](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/lab%201%20screenshot%206%20configured%20RAS%20and%20NAT.png?raw=true
+)  
 **Description:** Routing and Remote Access configuration showing NAT setup that enables internet connectivity for the internal network while maintaining security. Critical for enterprise network design understanding.
 
 7. **DHCP Management Console**  
-![DHCP Management](./screenshots/07-dhcp-management.png)  
+![DHCP Management](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/lab%201%20screenshot%207.png?raw=true
+)  
 **Description:** DHCP server management showing scope configuration, IP address range (`172.16.0.100-200`), and options including gateway and DNS server settings. Demonstrates dynamic IP allocation setup for client machines.
 
 8. **PowerShell Automation Script**  
-![PowerShell Automation](./screenshots/08-powershell-automation.png)  
+![PowerShell Automation](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/screenshot%208.png?raw=true
+)  
 **Description:** Showcases the custom PowerShell script that automates bulk user creation (1,000+ users) from a text file. Highlights scripting skills and automation capabilities for enterprise user management.
 
 9. **Client Domain Join**  
-![Client Domain Join](./screenshots/09-client-domain-join.png)  
+![Client Domain Join](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/lab1%20screenshot%209.png?raw=true
+)  
 **Description:** Windows 10 client successfully joined to the domain, showing computer object in AD and network connectivity. Demonstrates endpoint integration with domain services.
 
 10. **Network Connectivity Testing**  
-![Network Connectivity Testing](./screenshots/10-network-testing.png)  
+![Network Connectivity Testing](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/lab%201%20sc%2010.png?raw=true)  
 **Description:** Command prompt showing successful ping tests to both external resources (`google.com`) and internal domain resources (`mydomain.com`). Validates DNS resolution, network connectivity, and domain functionality.
