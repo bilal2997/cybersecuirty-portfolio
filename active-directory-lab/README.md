@@ -43,7 +43,7 @@ This project demonstrates my ability to **deploy, configure, and manage** a Wind
 **Description:** Displays the Server 2019 system properties confirming the evaluation version installation, hardware allocation (2GB RAM), and basic system identification. Important for documenting the lab environment specifications.
 
 4. **IPv4 Network Configuration**  
-![IPv4 Network Configuration]([./screenshots/04-ipv4-configuration.png](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/lab%201%20screenshot%204.png?raw=true))  
+![IPv4 Network Configuration]([./screenshots/04-ipv4-configuration.png](https://github.com/bilal2997/cybersecuirty-portfolio/blob/main/active-directory-lab/lab%201%20screenshot%204.png?raw=true)  
 **Description:** Shows the TCP/IPv4 configuration for the internal network interface. Documents the static IP assignment (`172.16.0.1`), subnet mask (`255.255.255.0`), and DNS settings that establish the domain controller's network identity.
 
 5. **Active Directory Management Console**  
